@@ -12,7 +12,7 @@ Some introduction to your solution/project.
 
 Team Members:
 
-- [Member#1's Github](https://github.com/{Vrajesh-Nasit})
+- [Member#1's Github](https://github.com/Vrajesh-Nasit)
 
 
 ## Problem statement 🐾
