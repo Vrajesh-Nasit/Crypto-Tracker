@@ -1,4 +1,4 @@
-# //🚀ENTER YOUR PROJECT TITLE HERE🚀//
+# //🚀 CRYPTO TRACKER🚀//
 
 ```bash
 THIS BLOCK IS MEANT TO EXPLAIN THE FILE STRUCTURE ONLY REMOVE ME INITAL COMMIT!
@@ -12,16 +12,18 @@ Some introduction to your solution/project.
 
 Team Members:
 
-- [Member#1's Github](https://github.com/{team_member_username})
-- [Member#2's Github](https://github.com/{team_member_username})
+- [Member#1's Github](https://github.com/{ @Vrajesh-Nasit })
+
 
 ## Problem statement 🐾
 
-Give a short problem statement that describes the problem you want to solve.
+In this app, we will be displaying the current rates of different cryptocurrencies present in the crypto market along with providing search functionality.
 
 ## Tech Stack 📚
 
-Provide a list of tools and technologies used to build your project.
+Android studio
+JAVA
+Git-Hub
 
 ## Solution 💡
 
@@ -69,8 +71,17 @@ Compare your current outcomes with what you expected it do.
 
 ## Future work 🤔
 
-Things to improve upon in future & how you would scale it up.
+i will add one trade assumption chart in future.
+also price notification dashboard.
 
 ## Reference 📖
 
-List of references used in your solution.
+crypto-tracker
+https://coinmarketcap.com/api/
+
+GeeksforGeeks
+https://www.geeksforgeeks.org/how-to-build-a-cryptocurrency-tracker-android-app/
+
+
+
+
