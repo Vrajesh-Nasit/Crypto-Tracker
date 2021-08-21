@@ -21,9 +21,9 @@ In this app, we will be displaying the current rates of different cryptocurrenci
 
 ## Tech Stack 📚
 
-Android studio
-JAVA
-Git-Hub
+- Android studio
+- JAVA
+- Git-Hub
 
 ## Solution 💡
 
@@ -34,14 +34,9 @@ Provide the walkthrough of your solution.
 
 ## Proof of work(Screenshots) 🎥
 
-Provide images or proof of work here. By proof of work we mean  you can provide:
+- a link to screen recording of solution.
+- 
 
-- a link to a hosted website that shows the result of your solution.
-- a link to screen recording of your solution.
-
-## Other optional sections you want to write about 📝
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut bibendum lectus vel urna auctor elementum. Mauris maximus feugiat odio sit amet eleifend. Suspendisse a justo purus.
 
 ## File structure 📂
 
@@ -71,16 +66,16 @@ Compare your current outcomes with what you expected it do.
 
 ## Future work 🤔
 
-i will add one trade assumption chart in future.
-also price notification dashboard.
+- Crypto Price assumption chart. (like what is the price of bitcoin after 1 month)
+- crypto currency price Alert dashboard.
+
 
 ## Reference 📖
 
 crypto-tracker
 https://coinmarketcap.com/api/
 
-GeeksforGeeks
-https://www.geeksforgeeks.org/how-to-build-a-cryptocurrency-tracker-android-app/
+
 
 
 
