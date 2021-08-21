@@ -27,15 +27,13 @@ In this app, we will be displaying the current rates of different cryptocurrenci
 
 ## Solution 💡
 
-Provide the walkthrough of your solution.
-
-- Provide necessary details to understand the solution.
-- Optional but charts are always nice to have.
+- Live rates of different types of crypto currencies.
+- Also search functionality.
 
 ## Proof of work(Screenshots) 🎥
 
 - a link to screen recording of solution.
-- 
+- https://youtube.com/shorts/xzw4kIrGKik?feature=share
 
 
 ## File structure 📂
