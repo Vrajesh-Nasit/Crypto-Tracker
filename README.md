@@ -2,10 +2,10 @@
 
 ```bash
 THIS BLOCK IS MEANT TO EXPLAIN THE FILE STRUCTURE ONLY REMOVE ME INITAL COMMIT!
-\
-├───docs : (optional) Here you can put your documentation.
-├───src  : Put your source code here.
-└───test : (optional) Your testing scripts goes here.
+
+
+├───src  : source code is uploaded into master branch.
+
 ```
 
 Some introduction to your solution/project.
